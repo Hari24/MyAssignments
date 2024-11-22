@@ -1,5 +1,7 @@
 package week1.day2;
 
+//Program to demo Do While loop
+
 public class DoWhileLoop {
 
 	public static void main(String[] args) {
